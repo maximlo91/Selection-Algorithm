@@ -3,7 +3,8 @@ on visual studio (solution provided) can be compiled and run on non-VS IDE.\
 The program takes an input and shows the amount of comparisons that happen in 3 known selection algorithms as output.\
 The program makes use of Quickselect (randomized pivot partition), Minimal Heap and Binary Search Tree data structures.
 
-Console Instructions :\ 
+Console Instructions :
+
 The program builds a person array from the input provided.\
 The array is copied and sent into 3 different functions, every function finds the k'th smallest element in the array (person's id).\
 each function updates the number of comparisons being made in the functions between ids.
