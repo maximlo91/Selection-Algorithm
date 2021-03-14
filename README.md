@@ -3,6 +3,8 @@ on visual studio (solution provided) can be compiled and run on non-VS IDE.\
 The program takes an input and shows the amount of comparisons that happen in 3 known selection algorithms as output.\
 The program makes use of Quickselect (randomized pivot partition), Minimal Heap and Binary Search Tree data structures.
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Console Instructions :
 
 The program builds a person array from the input provided.\
@@ -24,8 +26,13 @@ Each person's id must be unique, error checking is enabled to guarantee no dupli
 Output :\
 The program outputs all comparisons made by the 3 functions.
 
-How to use test files: Test files as .txt documents are located in /tests after building the solution and/or\
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+How to use test files:\
+Test files as .txt documents are located in /tests after building the solution and/or\
 compiling the program copy the contents of the test file and paste inside console. the program will produce the output.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Example :\
 3\
