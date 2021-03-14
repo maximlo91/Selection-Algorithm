@@ -1,4 +1,4 @@
-Selection Algorithms Project Built as a C++ Console Application,
+Selection Algorithms Project Built as a C++ Console Application,\
 on visual studio (solution provided) can be compiled and run on non-VS IDE. 
 The program takes an input and shows the amount of comparisons that happen in 3 known selection algorithms as output.
 The program makes use of Quickselect (randomized pivot partition), Minimal Heap and Binary Search Tree data structures.
