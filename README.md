@@ -18,7 +18,7 @@ Input rules (must have new line between inputs) :
 input 'n' number of persons to be created.\
 input 'n' persons with data as (id name).\
 input 'k' to be selected as k'th smallest in all functions.\
-Each person's id must be unique, error checking is enabled to guarantee no duplicate id's exists.\
+Each person's id must be unique, error checking is enabled to guarantee no duplicate id's exists.
 
 Output :\
 The program outputs all comparisons made by the 3 functions.
